@@ -1,0 +1,6 @@
+name: Nick
+author: ScienceCode
+version: 1.0
+main: de.sciencecode.nick.main.Main
+commands:
+  nick:
